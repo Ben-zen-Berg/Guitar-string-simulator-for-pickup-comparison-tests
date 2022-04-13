@@ -21,10 +21,12 @@ The solution:
 
 Just as an electric motor works like a generator in reverse principle, an 
 electromagnetic pick-up can also be converted into a magnetic wave generator.  
-Conventional guitar pickups can therefore be used to simulate a vibrating string. 
-However, in order not to disturb the magnetic field in a test environment, the 
-coils used should not have a permanent magnet in the core. Rail humbuckers in 
-single coil format are best suited from a constructional point of view. 
+Conventional guitar pickups can therefore be used to simulate the magnetic 
+waves of vibrating strings. 
+However, in order not to disturb the magnetic field in a test environment, 
+the coils used for a simulation should not have a permanent magnet in the core. 
+Rail humbuckers in single coil format are best suited from a constructional 
+point of view. 
 
 • The permanent magnet can be removed easily.
 • The blade in the core is not too thick.
