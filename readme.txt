@@ -24,7 +24,7 @@ electromagnetic pick-up can also be converted into a magnetic wave generator.
 Conventional guitar pickups can therefore be used to simulate the magnetic 
 waves of vibrating strings. 
 However, in order not to disturb the magnetic field in a test environment, 
-the coils used for a simulation should not have a permanent magnet in the core. 
+the coils used for a simulation should not have a permanent magnet in its core. 
 Rail humbuckers in single coil format are best suited from a constructional 
 point of view. 
 
@@ -37,3 +37,9 @@ The power of a headphone amplifier is sufficient for the simmulation of the
 string vibration. For a six strings simulator it should be possible to control 
 the system with a microcontroller and six i2s class D mono amplifiers in the 
 low single-digit watt range.
+
+------------------------------------------------------------------------------
+Tools:
+------------------------------------------------------------------------------
+CAD: https://www.freecadweb.org/
+Circuit designs: https://fritzing.org/download/
